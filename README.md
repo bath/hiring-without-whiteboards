@@ -398,6 +398,7 @@ If you've been through an interview with one of these companies recently, and yo
 - [Jumbo](https://nl.jobs.jumbo.com/nl) | Veghel, Netherlands | Culture Fit call, take-home project, design discussion based on take-home project, system design conversation online or in-person.
 - [JustWatch](https://www.justwatch.com/us/talent) | Berlin, Germany | Take-Home project, discussion on-site
 - [Kahoot!](https://www.getkahoot.com/jobs) | London, UK / Oslo, Norway | Phone screening to discuss technical background and past experience. Take-home assignment followed by on-site code review and interview. Cultural fit assessment
+- [Kanapy](https://www.linkedin.com/in/millerbath) | Kansas City, MO | Intro call, then a pairing session on a real problem, then a meeting with the founders. In person. No CS trivia, puzzles or LeetCode. To apply, send a DM to the founder on LinkedIn or on X (https://x.com/millerbath)
 - [Kata.ai](https://kata.ai) | Malang, Indonesia / Jakarta, Indonesia | Take-home assignment, then invited to discuss the assignment and interview.
 - [Kayako](https://www.kayako.com) | London, UK / Gurgaon, India | Take-home assignment, series of experience based interviews, cultural fit assessment
 - [KEF Robotics](https://www.kefrobotics.com) | Pittsburgh PA, USA | Presentation on a technical topic of your choice, cultural fit assessment
